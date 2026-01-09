@@ -2,7 +2,7 @@
 Apex Legends sensitivity
 
 # Apex ALC Ultimate Settings  
-## —— Linear 4-3 完美优化版 / Perfectly Optimized (Clean)
+## —— Linear 4-3  / Perfectly Optimized (Clean)
 
 > **Master Switch / 总开关**  
 > Top menu **[Advanced Look Controls (ALC)] must be ENABLED**  
